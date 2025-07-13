@@ -67,6 +67,8 @@ body {
     background-color 0.5s;
   line-height: 1.6;
   font-family:
+    "Gill Sans",
+    "Gill Sans MT",
     Inter,
     -apple-system,
     BlinkMacSystemFont,
@@ -83,4 +85,5 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.6rem;
 }
